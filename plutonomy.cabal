@@ -137,7 +137,7 @@ library
 
   -- plutus dependencies: no version bounds
   build-depends:
-    , plutus-core
+    , plutus-core >= 1.17.0.0
     , plutus-tx
 
   if !flag(CHaP)

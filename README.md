@@ -54,3 +54,7 @@ None of the two flags are on by default,
 so you need to enable the flag corresponding to
 the version you want to use, but never turn off
 any version flags.
+
+### BLST
+
+Make sure to [install blst](https://github.com/input-output-hk/cardano-node-wiki/blob/main/docs/getting-started/install.md#installing-blst).
